@@ -1,0 +1,11 @@
+.login-card {
+  width: 100%;
+  max-width: 420px;
+  margin: auto;
+  padding: 40px;
+  margin-top: 20px;
+}
+
+input.ng-invalid.ng-touched {
+  border: 1px solid #dc3545;
+}
